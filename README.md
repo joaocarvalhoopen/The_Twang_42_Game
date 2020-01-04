@@ -50,7 +50,7 @@ python twang42.py
 
 # References:
 * [How to display tkinter polygons on canvas under 3D conditions?](https://stackoverflow.com/questions/54043171/how-to-display-tkinter-polygons-on-canvas-under-3d-conditions)
-* [TWANG32 LED Strip Game Demo](https://www.youtube.com/watch?v=RXpfa-ZvUMA)
+* [Youtube Video - TWANG32 LED Strip Game Demo](https://www.youtube.com/watch?v=RXpfa-ZvUMA)
 * [buildlog.net on Twang32](http://www.buildlog.net/blog/?s=twang)
 * [GitHub - bdring/TWANG32](https://github.com/bdring/TWANG32)
 

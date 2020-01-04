@@ -578,7 +578,7 @@ enemyList      = []
 looseOn        = 0
 
 # Fill to Jump To directly to level.
-jumpToLevel = 7   # 7
+jumpToLevel = 0   # 7
 
 if jumpToLevel > 0:
     level = jumpToLevel - 1  # DEBUG
